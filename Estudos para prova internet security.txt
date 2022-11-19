@@ -1,0 +1,331 @@
+0.0 - O resultado da pesquisa feita pelo "usuário" deve refletir o que ele busca e nada além do que ele procure, a menos que ele queira.
+0.1 - Ajudar a avaliar se o conteudo mostrado coinscide com o pesquisado e melhorar os mecanismos de busca.
+0.2 - O avaliador deve ser imparcial e avaliar da maneira mais coerente possível.
+0.4 - Não usar Adblock a menos que o empregador diga para usar.
+0.5 - Ser cauteloso ao visitar as páginas e baixar antivirus e antispyware
+ Introdução
+
+1.0 - avaliador de qualidade de página bem-sucedido:
+● Sua experiência usando a web como um usuário comum em sua localidade de classificação.
+● Conhecimento aprofundado dessas diretrizes.
+● E o mais importante - pratique as tarefas de classificação PQ!
+
+2.2 - Por que é importante determinar a finalidade da página para a classificação PQ?
+● O objetivo da classificação PQ é determinar quão bem uma página atinge sua finalidade. Para atribuir uma classificação, você deve
+entender o propósito da página e, às vezes, do site.
+● Ao entender o objetivo da página, você entenderá melhor quais critérios são importantes a serem considerados ao
+avaliar essa página específica.
+● Sites e páginas devem ser criados para ajudar as pessoas. Se não for esse o caso, uma classificação de mais baixa pode ser
+garantido. Mais sobre isso mais tarde.
+
+2.2 - Exemplos de páginas benéfica e qualidade boa 
+● Para compartilhar informações sobre um tópico.
+● Para compartilhar informações pessoais ou sociais.
+● Para compartilhar fotos, vídeos ou outras formas de mídia.
+● Para expressar uma opinião ou ponto de vista.
+● Para entreter.
+● Para vender produtos ou serviços.
+● Para permitir que os usuários postem perguntas para que outros usuários respondam.
+● Para permitir que os usuários compartilhem arquivos ou baixem software.
+
+
+*Paginas YMYL são paginas que podem impactar fortemente a vida do usuário
+ - Não sao tao recorrentes
+ - Exigem mais atenção na hora de avaliar
+2.3 - Os tópicos do YMYL podem afetar significativamente ou prejudicar um ou mais dos seguintes:
+● a pessoa que está visualizando ou usando o conteúdo diretamente
+● outras pessoas afetadas pela pessoa que visualizou o conteúdo
+● grupos de pessoas ou sociedade afetados pelas ações de pessoas que visualizaram o conteúdo
+
+2.3 - Para determinar se um tópico é YMYL, avalie os seguintes tipos de danos que podem ocorrer:
+● Saúde ou segurança do YMYL: tópicos que podem prejudicar a saúde mental, física e emocional ou qualquer forma de segurança
+como segurança física ou segurança online.
+● Segurança Financeira YMYL: Tópicos que podem prejudicar a capacidade de uma pessoa de sustentar a si mesma e sua família.
+● Sociedade YMYL: tópicos que podem impactar negativamente grupos de pessoas, questões de interesse público, confiança no público
+instituições, etc
+● YMYL Outros: Tópicos que podem prejudicar as pessoas ou impactar negativamente o bem-estar ou o bem-estar da sociedade.
+
+
+2.3 - Se você estiver tendo problemas para decidir se um tópico é YMYL, considere as seguintes perguntas:
+1. Uma pessoa cuidadosa procuraria especialistas ou fontes altamente confiáveis ​​para evitar danos? Poderia até menor
+imprecisões causam danos? Se sim, então o tópico é provavelmente YMYL.
+2. O tópico específico é aquele que a maioria das pessoas se contentaria em apenas consultar casualmente seus amigos? Se
+sim, o tópico provavelmente não é YMYL.
+
+
+2.4 - 3 Tipos de páginas : Main Content (MC), Supplementary Content
+(SC), or Advertisements/Monetization (Ads)
+
+2.4.1 - Main Content (MC)  
+Conteúdo principal é qualquer parte da página que ajuda diretamente a página a atingir seu objetivo
+
+2.4.2 - Supplementary Content(SC)
+Todo conteúdo extra fora do conteúdo principal pesquisado pelo usuário
+
+2.4.3 - Advertisements/Monetization (Ads)
+Serve para a sobrevivencia da pagina e não interfere na classificação da pagina / o link tem que ser externo para ser ad
+
+3.2 - EAT
+• A *experiência* do criador do MC. 
+• A *autoridade* do criador do MC, do próprio MC e do site. 
+• A *confiabilidade* do criador do MC, do próprio MC e do site.
+
+
+4.0 - hight quality page
+• Alto nível de especialização, autoridade e confiabilidade (EAT). 
+• Uma quantidade satisfatória de MC de alta qualidade, incluindo um título descritivo ou útil. 
+• Satisfazer as informações do site e/ou informações sobre quem é o responsável pelo site. Se a página for principalmente para compras ou incluir transações
+financeiras, ela deverá ter informações satisfatórias de atendimento ao cliente. 
+• Reputação positiva do site para um site responsável pelo MC na página. Reputação positiva do criador do MC, se diferente da do site.
+
+
+5.0 - Page Highest quality *Reputação é muito importante*
+• Nível muito alto de especialização, autoridade e confiabilidade (EAT). 
+• Uma quantidade muito satisfatória de MC de alta ou mais alta qualidade. 
+• Reputação de site muito positiva para um site responsável pelo MC na página. Reputação muito positiva
+
+6.0 - Low quality page
+• Um nível inadequado de Especialização, Autoridade e Confiabilidade (EAT) para a finalidade da página. 
+• A qualidade do MC é baixa para
+o propósito da página. 
+• Há uma quantidade insatisfatória de MC úteis para o propósito da página. 
+• O título do MC é *exagerado ou chocante*.
+• Os Anúncios ou *SC distraiam* significativamente ou interferem com o MC, conforme descrito na Seção 6.4 destes
+• Há uma quantidade insatisfatória de informações do site ou informações sobre o criador do MC para essa finalidadeda página (nenhuma boa razão para o anonimato). 
+• Uma reputação levemente negativa para um site ou criador do MC, com base em extensa pesquisa de reputação.
+
+6.1 Baixo nível EAT *O título da página deve descrever o conteúdo*
+• O criador do MC não tem experiência adequada no tópico do MC, por exemplo, um vídeo de instruções de formulário fiscal 
+feito por alguém sem experiência clara na preparação de impostos
+• O site não é uma fonte oficial para o tópico da página, por exemplo, informações fiscais em um site de culinária. 
+• O MC não é confiável, porexemplo, uma página de checkout de compras que tem uma conexão insegura. 
+• O MC informativo sobre tópicos YMYL é levemente impreciso ou enganoso
+
+obs: *a classificação Baixa deve ser usada se a página tiver Anúncios, SC ou outros recursos que interrompam ou distraiam o uso do MC.*
+     *O título da página deve descrever o conteúdo*
+
+7.0 - Lowest quaility page
+1. Avalie o verdadeiro propósito da página. Se o site ou página tiver um propósito prejudicial ou for projetado para enganar
+Prejudicial para si mesmo ou
+Grupos
+• Informações destinadas a confundir ou manipular de forma prejudicial
+2. Avalie o potencial da página para causar danos, conforme descrito nestas diretrizes. Sites ou páginas que são prejudiciais às pessoas ou à sociedade, não
+confiáveis ou com spam, conforme especificado nestas diretrizes, devem receber a classificação mais baixa .
+
+
+7.1 -Exemplos de páginas que são prejudiciais a si mesmo ou a outros indivíduos incluem qualquer um dos seguintes tipos de conteúdo:
+• Conteúdo que incite violência contra outros indivíduos 
+• Conteúdo que contenha sérias ameaças de morte ou outras ameaças que pareçam realistas 
+• Conteúdo que compartilhe informações pessoais pertencentes a outras pessoas com intenção maliciosa de atingi-los ou promovê-los
+assédio contra eles (ou seja, “doxxing”)
+• Informações passo a passo que descrevem como cometer atos violentos de maneira fácil de replicar 
+• Conteúdo destinado a defender, glorificar ou banalizar a violência e atrocidades, ou denegrir a(s) vítima(s) de violência/atrocidades
+• Conteúdo que descreva ou promova informações que facilitem ou levem a sérios danos às pessoas, ou discussões que tentem justificar o abuso de
+pessoas 
+• Conteúdo que incentive comportamentos inseguros ou minimize substancialmente os riscos de atividades perigosas (por exemplo,
+consumir produtos de limpeza doméstica)
+• Conteúdo de promoção de suicídio ou pró-anorexia que incentive as pessoas a se envolverem em comportamentos que podem resultar
+em hospitalização ou morte 
+• Conselhos relacionados à saúde que contradizem o consenso de especialistas bem estabelecido e
+podem resultar em danos graves (por exemplo, declarações de que os limões curam o câncer), ou pode impedir alguém de realizar um
+tratamento que salva vidas (por exemplo, incentivar um remédio caseiro como substituto do tratamento médico padrão para curar uma
+doença) 
+• Páginas maliciosas que tentam enganar ou ferir pessoas, contêm links suspeitos (por exemplo, para baixar malware ),solicitar 
+informações pessoais sem motivo legítimo ou “phishing” para senhas
+
+
+7.1.1 -Exemplos de conteúdo que não deve ser considerado prejudicial a si mesmo ou a outros indivíduos incluem:
+• Representações de violência em um filme de ação 
+•Uma notícia sobre eventos violentos 
+• Conteúdo educacional que pode retratar violência ou imagens grosseiras 
+• Uma explicação de golpes para aumentar a conscientização sobre eles 
+• Retratar atividades perigosas de uma maneira que desencoraje outras pessoas a tentar o mesmo feito 
+(como por explicando claramente os riscos envolvidos, descrevendo os conhecimentos e equipamentos necessários, etc.)
+
+***. Lembre-se de que o conteúdo deve promover, tolerar ou incitar o ódio de pessoas para ser considerado prejudicial a grupos específicos.***
+7.2 - Use a classificação mais baixa para páginas que promovem, toleram ou incitam o ódio contra um grupo específico de pessoas
+Para fins de classificação de qualidade da pesquisa, um Grupo especificado é um grupo de pessoas que pode ser definido com base em: 
+• Idade(por exemplo, adultos mais velhos) 
+• Casta (por exemplo, Dalits) 
+• Deficiência (por exemplo, pessoas cegas) 
+• Etnia (por exemplo, Roma) 
+• Identidade e Expressão de Gênero (por exemplo, pessoas transgênero) 
+• Status de imigração (por exemplo, portadores de visto de estudante)
+• Nacionalidade (por exemplo, italianos) 
+• Raça (por exemplo, asiáticos) 
+• Religião (por exemplo, cristãos) 
+• Sexo/Gênero (por exemplo,homens) • Orientação sexual (por exemplo, lésbicas) 
+• Status de veterano (por exemplo, fuzileiros navais) 
+• Vítimas de um grande eventoviolento e seus parentes (por exemplo, vítimas do Holocausto) 
+• Qualquer outra característica associada a discriminação sistêmica oumarginalização (por exemplo, refugiados, pessoas experimentando a falta de moradia)
+
+8.0 - Medium quality page
+ - Nada de errado, mas nada de especial
+ - A página ou site tem fortes características de classificação de alta qualidade, mas também tem características leves de
+baixa qualidade. 
+
+9.1 - A página da tarefa Qualidade da página é dividida em várias partes:
+1. Algumas perguntas iniciais sobre a página de destino da tarefa.
+2. Uma “grade PQ” para registrar suas observações sobre as características PQ da página de destino.
+3. O controle deslizante de classificação PQ geral que registra sua classificação PQ geral.
+4. Uma caixa de comentários para explicar sua classificação.
+** Alguns resultados para as perguntas iniciais encerrarão a tarefa mais cedo. Se a página for Pornografia, Língua Estrangeira, Não carregou ou consistir em MC
+restrito ou inacessível (por exemplo, é necessária assinatura para visualizar MC), você não preencherá a grade PQ ou atribuirá uma classificação geral.**
+
+10.1 - Classificações para páginas da enciclopédia
+-Ver se o assunto é ymyl
+-Analisar se o artigo tem um bom conteudo mc
+-Analisar se tem dados e referencias o suficiente
+
+10.2 -Classificações para páginas com mensagens de erro 404 ou sem MC
+Analisar se a pagina ta em branco ou oferece algum tipo de ajuda para o usuario
+
+
+12.7 -Pode ser útil pensar em consultas como tendo uma ou mais das seguintes intenções.
+•know simple queries , algumas das quais são Consultas de conhecimento simples 
+•DO queries , quando o usuário está tentando atingir uma meta ou se envolver em uma atividade *Do*
+•Consulta de site , quando o usuário está procurando por um site ou página específica 
+•Visita presencial consulta, alguns dos quais estão procurando uma empresa ou organização específica, alguns dos quais são
+procurando uma categoria de negócios
+
+
+*Caixa de pesquisa do navegador / **resultado da pesquisa no navegador** *
+13.0 Classificação usando a escala de necessidades atendidas
+
+13.1 *Totalmente Atende* (FullyM) : Uma categoria de classificação especial, que se aplica apenas a determinadas consultas e resultados. Todos ou quase todos os
+usuários ficariam imediata e totalmente satisfeitos com o resultado e não precisariam visualizar outros resultados para satisfazer sua
+necessidade.
+
+*Altamente Atende* (HM) : Muito útil para muitos ou a maioria dos usuários. Alguns usuários podem querer ver resultados adicionais.
+
+*Atende moderadamente* (MM) : Útil para muitos usuários OU muito útil para alguns usuários. Alguns ou muitos usuários podem querer ver resultados adicionais.
+
+
+*Primariamente de resultados desatualizados mas que de alguma forma pode ser útil*
+*Ligeiramente Atende* (SM) : Útil para menos usuários. Há uma conexão entre a consulta e o resultado, mas não uma conexão forte ou satisfatória. Muitos ou a
+maioria dos usuários gostariam de ver resultados adicionais.
+
+*Falha ao atender* (FailsM) : Completamente não atende às necessidades dos usuários. Todos ou quase todos os usuários gostariam de ver resultados
+adicionais.
+
+
+
+14.0 - **O controle deslizante de classificação de qualidade da página não depende da consulta**
+
+
+15.0 - Conulta de Língua Estrangeira 
+O resultado é a página dedestino da consulta, mas está em um idioma estrangeiro (chinês).
+Este resultado merece uma classificação FullyM e a bandeira de Língua Estrangeira .
+
+15.1 - *O sinalizador Porn é usado para indicar que o resultado é pornografia. Não importa se a consulta “pede pornografia”.*
+
+
+15.4 Bandeira de Língua Estrangeira
+• O idioma da tarefa 
+• Um idioma que é comumente usado por uma porcentagem significativa da população no local da tarefa 
+• Inglês
+
+
+15.4.1
+• Atribua o sinalizador de idioma estrangeiro mesmo que você entenda o idioma pessoalmente, mas a maioria dos usuários em
+sua localidade não.
+• Atribua o sinalizador de idioma estrangeiro com base no idioma da página de destino, não na aparência do
+bloco de resultado
+• Lembre-se de sinalizar todas as páginas estrangeiras com o sinalizador de idioma estrangeiro , mesmo que a maioria dos usuários em sua localidade
+esperaria ou desejaria uma página em idioma estrangeiro para a consulta
+• Às vezes é difícil determinar em qual idioma a página de destino está. O LP pode ter vários idiomas ou nenhuma palavra. Nesses casos, tente representar os usuários
+em sua localidade. Parece uma página de língua estrangeira?
+** Na dúvida, não use a bandeira de Língua Estrangeira **.
+**as páginas sinalizadas como Língua Estrangeira devem ser classificadas como FailsM**
+
+15.5 - Use o sinalizador Não carregou quando:
+• O MC da página de destino é uma mensagem de erro do servidor da web ou do aplicativo da web e não há outro  conteúdo a página:
+ sem links de navegação, sem link inicial, sem SC e sem anúncios. Veja aqui para uma página da Wikipedia sobre diferentes tipos de mensagens de erro. 
+• A página de destino está completamente em branco: sem MC, sem SC e sem anúncios.
+** Atribua o sinalizador Não carregou com base na página de destino, não no bloco de resultados.**
+
+15.6 - **Marque o conteúdo que pode ser desagradável ou desconfortável para algumas pessoas em sua localidade (por exemplo, conteúdo que pode não ser apropriado
+em um espaço público, ambiente profissional ou escola) como Não-para-todos.**
+
+
+16.0 - **O bloco de resultado para consultas com duas intenções(lugar e site) devem mostrar tanto o site quanto o mapa com os lugares possíveis
+
+
+17.0 - **Quanto mais especifica a consulta , mais facil de avalia-la**
+
+
+18.0 - Consultas obsuletas e desatualizadas
+Para essas consultas, páginas sobre eventos passados, modelos e preços de produtos antigos, informações desatualizadas etc. não são úteis. Eles devem ser
+considerados “obsoletos” e receber classificações baixas de necessidades atendidas. Em alguns casos, os resultados obsoletos são inúteis e devem ser classificados
+como FailsM.
+
+
+19.0 - Erros ortograficos pelo usuario
+Para consultas obviamente com erros ortográficos ou digitados, você deve basear sua classificação na intenção do usuário, não necessariamente 
+em como a consulta foi escrita ou digitada exatamente pelo usuário.
+
+
+20.0 - Podem surgir páginas e links de complemento ao que o usuário solicitou e geralmente pode ser útil, sendo classificado como SM, MM ou HM
+
+** Tipos de consultas **
+Know(saber) : Quando o usuário quer apenas se informar de algo(ex: previsão do tempo)
+Do(Fazer) : Quando o usuário quer se envolver em uma atividade (ex: comprar algo)
+Website(Site): Quando o usuário quer apenas conhecer a pagina web(ex: visitar uma página de fotos de gatos)
+
+
+21.0 - Consultas sobre produtos
+Os usuários nem sempre planejam comprar produtos on-line nos quais estão navegando e pesquisando, por exemplo, carros ou grandes eletrodomésticos. 
+Mesmo que oobjetivo final seja comprar um produto, muitas outras atividades podem ocorrer primeiro: pesquisar o 
+produto (reviews, especificações técnicas), entender as opçõesdisponíveis (marcas, modelos, preços), visualizar e considerar várias opções ( navegação), etc.
+
+
+24.0 - Classificar dicionário ou enciclipédia
+Reserve classificações altas de Necessidades atendidas para resultados de dicionários e enciclopédias quando a intenção do usuário 
+para a consulta for provavelmente "o que é" ou "o que significa" e o resultado for útil para usuários que procuram esse tipo de informação.
+
+
+
+
+Etapas para classificar a QP:
+
+1- Ler as instruções da tarefa
+
+
+2- Entender o motivo pela qual a página foi criada e se ela atinge sua finalidade(ser benefico para o usuário)
+
+
+3- Avaliar o MC da página
+    Analisar o título da pagina
+    Analisar se o MC coinscide com o titulo
+
+
+4- Informações de quem é o site e de quem criou o site
+  -Para encontrar informações de contato ou atendimento ao cliente para um site, comece com a página inicial. Procure um link “fale
+conosco” ou “atendimento ao cliente”. Explore o site se não encontrar uma página de “fale conosco”. Às vezes, você encontrará as informações
+de contato em um link de “site corporativo” ou até mesmo na página da empresa no Facebook. Seja um detetive!
+
+
+5- Analisar a reputação do site
+ ex: review do youtube
+     wikipedia youtube
+
+6- Analisar o EAT da página
+
+
+7- Avaliar na escala se a página atinge bem seu objetivo
+
+
+8- Fazer comentários sobre a página
+  exemplos: 
+	- Uma breve descrição do objetivo e conteúdo principal da página
+	- Confirme se você acha que é YMYL
+	- Resumo dos mais relevantes para você	
+	- O que influencia a sua classificação
+	- Sua própria opinião
+	- Compartilhe sua pesquisa
+	- Citar as Diretrizes Gerais quando apropriado
+
+
+
+
+
